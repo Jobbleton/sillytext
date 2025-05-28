@@ -1,4 +1,4 @@
 {
 "key": "https://ko-fi.com/jobyr",
-"balls: "yeet"
+"balls": "yeet"
 }
